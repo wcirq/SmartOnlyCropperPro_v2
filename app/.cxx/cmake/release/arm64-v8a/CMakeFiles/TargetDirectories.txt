@@ -1,0 +1,2 @@
+E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

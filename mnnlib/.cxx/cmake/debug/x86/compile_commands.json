@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/AndroidProject/SmartOnlyCropperPro/mnnlib/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmnnlib_EXPORTS -I../../../../../third/opencv/include -I../../../../src/main/cpp/include -I../../../../../third/mnn/include -I../../../../../third/mnn/include/MNN -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\mnnlib.dir\\src\\main\\cpp\\model.cpp.o -c E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\src\\main\\cpp\\model.cpp",
+  "file": "E:/AndroidProject/SmartOnlyCropperPro/mnnlib/src/main/cpp/model.cpp"
+},
+{
+  "directory": "E:/AndroidProject/SmartOnlyCropperPro/mnnlib/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmnnlib_EXPORTS -I../../../../../third/opencv/include -I../../../../src/main/cpp/include -I../../../../../third/mnn/include -I../../../../../third/mnn/include/MNN -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\mnnlib.dir\\src\\main\\cpp\\router.cpp.o -c E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\src\\main\\cpp\\router.cpp",
+  "file": "E:/AndroidProject/SmartOnlyCropperPro/mnnlib/src/main/cpp/router.cpp"
+}
+]

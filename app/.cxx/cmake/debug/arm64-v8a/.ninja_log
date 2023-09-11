@@ -1,0 +1,9 @@
+# ninja log v5
+1	3237	699441174	CMakeFiles/temp.dir/src/main/cpp/smartcropper.cpp.o	7ebe581d5f5dbf9b
+3	2296	699441596	CMakeFiles/temp.dir/src/main/cpp/smartcropper.cpp.o	74ef101499b1c1b3
+2	2206	699442055	CMakeFiles/temp.dir/src/main/cpp/smartcropper.cpp.o	74ef101499b1c1b3
+2206	7913	699442061	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libtemp.so	d5c0ecf477b84739
+4	2244	699442076	CMakeFiles/temp.dir/src/main/cpp/smartcropper.cpp.o	74ef101499b1c1b3
+3	1994	699442520	CMakeFiles/temp.dir/src/main/cpp/smartcropper.cpp.o	74ef101499b1c1b3
+1994	8297	699442527	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libtemp.so	d5c0ecf477b84739
+2	743	699443192	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libtemp.so	d5c0ecf477b84739

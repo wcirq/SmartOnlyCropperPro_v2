@@ -1,0 +1,190 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":2}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 2
+  },
+  "sourceDirectory": "E:/AndroidProject/SmartOnlyCropperPro/app",
+  "buildDirectory": "E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/debug/arm64-v8a",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_FIND_ROOT_PATH\u003dE:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\AndroidProject\\SmartOnlyCropperPro\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d21"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Warning (dev) in CMakeLists.txt:\n  No project() command is present.  The top-level CMakeLists.txt file must\n  contain a literal, direct call to the project() command.  Add a line of\n  code such as\n\n    project(ProjectName)\n\n  near the top of the file, but after cmake_minimum_required().\n\n  CMake is pretending there is a \"project(Project)\" command on the first\n  line.\nThis warning is for project developers.  Use -Wno-dev to suppress it.\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+CMAKE SERVER: CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Deprecation Warning:\n  The 'cmake-server(7)' is deprecated.  Please port clients to use the\n  'cmake-file-api(7)' instead.\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Deprecation Warning:
+  The 'cmake-server(7)' is deprecated.  Please port clients to use the
+  'cmake-file-api(7)' instead.
+
+CMAKE SERVER: CMake Deprecation Warning:
+  The 'cmake-server(7)' is deprecated.  Please port clients to use the
+  'cmake-file-api(7)' instead.
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":100,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Initialize.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeGenericSystem.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Linux.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/UnixPaths.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCInformation.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-C.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/GNU.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-C.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXInformation.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-CXX.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-CXX.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake","C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"]},{"isCMake":false,"isTemporary":true,"sources":[".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake",".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.18.1-g262b901-dirty/CMakeCCompiler.cmake",".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.18.1-g262b901-dirty/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"E:/AndroidProject/SmartOnlyCropperPro/app","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/debug/arm64-v8a","hasInstallRule":false,"minimumCMakeVersion":"3.6.0","name":"Project","sourceDirectory":"E:/AndroidProject/SmartOnlyCropperPro/app","targets":[]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmartOnlyCropperPro_v2.iml" filepath="$PROJECT_DIR$/.idea/modules/SmartOnlyCropperPro_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartOnlyCropperPro_v2.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.iml" filepath="$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mnnlib/SmartOnlyCropperPro_v2.mnnlib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.iml" filepath="$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/smartcropperlibproV4.4/SmartOnlyCropperPro_v2.smartcropperlibproV4.4.unitTest.iml" />
+    </modules>
+  </component>
+</project>

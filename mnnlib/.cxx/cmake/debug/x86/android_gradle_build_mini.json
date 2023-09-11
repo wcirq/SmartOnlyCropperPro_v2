@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe  -C \"E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mnnlib-Debug-x86": {
+      "artifactName": "mnnlib",
+      "buildCommand": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\" mnnlib",
+      "abi": "x86",
+      "output": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\build\\intermediates\\cmake\\debug\\obj\\x86\\libmnnlib.so",
+      "runtimeFiles": []
+    }
+  }
+}

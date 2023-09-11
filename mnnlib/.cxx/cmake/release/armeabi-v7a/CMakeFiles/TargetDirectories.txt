@@ -1,0 +1,3 @@
+E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/.cxx/cmake/release/armeabi-v7a/CMakeFiles/mnnlib.dir
+E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

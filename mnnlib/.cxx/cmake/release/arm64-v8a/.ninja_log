@@ -1,0 +1,4 @@
+# ninja log v5
+57	2943	701803221	CMakeFiles/mnnlib.dir/src/main/cpp/router.cpp.o	72fc7983fadb4d7b
+0	3182	701803221	CMakeFiles/mnnlib.dir/src/main/cpp/model.cpp.o	d7117b7493ab174
+3182	4582	701803222	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libmnnlib.so	7f5c69051bd9cc0e

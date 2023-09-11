@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\develop\projects\AndroidStudio\SmartOnlyCropperPro_v2\mnnlib\.cxx\cmake\release\armeabi-v7a'
+ninja: no work to do.

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\CMakeLists.txt",
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe  -C \"E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mnnlib-Debug-armeabi-v7a": {
+      "artifactName": "mnnlib",
+      "buildCommand": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\.cxx\\cmake\\debug\\armeabi-v7a\" mnnlib",
+      "abi": "armeabi-v7a",
+      "output": "E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libmnnlib.so",
+      "runtimeFiles": []
+    }
+  }
+}

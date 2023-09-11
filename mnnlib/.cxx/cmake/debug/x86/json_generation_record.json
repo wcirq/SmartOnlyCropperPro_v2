@@ -1,0 +1,356 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.10.2\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\u0027 had version \u00273.18.1\u0027",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.22.1\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json due to:",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\u0027",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\u0027",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HE:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\prefab\\x86\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\build\\intermediates\\cmake\\debug\\obj\\x86\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-BE:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":2}],\"type\":\"hello\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 2\n  },\n  \"sourceDirectory\": \"E:/AndroidProject/SmartOnlyCropperPro/mnnlib\",\n  \"buildDirectory\": \"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/.cxx/cmake/debug/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\mnnlib\\\\.cxx\\\\cmake\\\\debug\\\\prefab\\\\x86\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.3.6528147\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.3.6528147\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.3.6528147\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\mnnlib\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\"\n  ]\n}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Deprecation Warning:\\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\\n  \u0027cmake-file-api(7)\u0027 instead.\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Deprecation Warning:\r\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\r\n  \u0027cmake-file-api(7)\u0027 instead.\r\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":100,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystem.cmake.in\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCCompiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine-C.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeGenericSystem.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Linux.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/UnixPaths.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-C.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/GNU.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCCompiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompilerABI.c\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCXXCompiler.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/debug/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake\",\".cxx/cmake/debug/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeCCompiler.cmake\",\".cxx/cmake/debug/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeCXXCompiler.cmake\",\".cxx/cmake/debug/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeCCompiler.cmake\",\".cxx/cmake/debug/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/.cxx/cmake/debug/x86\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"mnnlib\",\"sourceDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib\",\"targets\":[{\"artifacts\":[\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/build/intermediates/cmake/debug/obj/x86/libmnnlib.so\"],\"buildDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/.cxx/cmake/debug/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC\",\"defines\":[\"mnnlib_EXPORTS\"],\"includePath\":[{\"path\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/third/opencv/include\"},{\"path\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/src/main/cpp/include\"},{\"path\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/third/mnn/include\"},{\"path\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib/third/mnn/include/MNN\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/model.cpp\",\"src/main/cpp/router.cpp\"]}],\"fullName\":\"libmnnlib.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog  -lMNN  -llog  -ljnigraphics  -lz  -lMNN_Express  -lmnncore  -lMNN_Vulkan  -lMNN_CL  -lc++_shared  -lopencv_imgproc  -lopencv_core  -lippiw  -lippicv  -littnotify  -ltbb  -lcpufeatures  -latomic -lm\",\"linkPath\":\"-LE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\mnnlib\\\\third\\\\opencv\\\\lib\\\\x86   -LE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\mnnlib\\\\third\\\\opencv\\\\3rdparty\\\\x86   -LE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\mnnlib\\\\third\\\\mnn\\\\lib\\\\x86\",\"linkerLanguage\":\"CXX\",\"name\":\"mnnlib\",\"sourceDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/mnnlib\",\"sysroot\":\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\mnnlib\\CMakeLists.txt",
+    "tag": "debug|x86"
+  }
+]

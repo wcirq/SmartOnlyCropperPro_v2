@@ -1,0 +1,224 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.10.2\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\u0027 had version \u00273.18.1\u0027",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.22.1\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027E:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\armeabi-v7a\u0027 but regenerating project",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HE:\\AndroidProject\\SmartOnlyCropperPro\\app\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\prefab\\armeabi-v7a\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\AndroidProject\\SmartOnlyCropperPro\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-BE:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":2}],\"type\":\"hello\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 2\n  },\n  \"sourceDirectory\": \"E:/AndroidProject/SmartOnlyCropperPro/app\",\n  \"buildDirectory\": \"E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/debug/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\app\\\\.cxx\\\\cmake\\\\debug\\\\prefab\\\\armeabi-v7a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.3.6528147\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.3.6528147\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.3.6528147\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\app\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\wcirq\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\"\n  ]\n}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Deprecation Warning:\\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\\n  \u0027cmake-file-api(7)\u0027 instead.\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Deprecation Warning:\r\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\r\n  \u0027cmake-file-api(7)\u0027 instead.\r\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":100,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeGenericSystem.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Linux.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/UnixPaths.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-C.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/GNU.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake\",\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake\",\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901-dirty/CMakeCCompiler.cmake\",\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901-dirty/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/wcirq/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/app\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/debug/armeabi-v7a\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"temp\",\"sourceDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/app\",\"targets\":[{\"artifacts\":[\"E:/AndroidProject/SmartOnlyCropperPro/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libtemp.so\"],\"buildDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/app/.cxx/cmake/debug/armeabi-v7a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC\",\"defines\":[\"temp_EXPORTS\"],\"includePath\":[{\"path\":\"E:/AndroidProject/SmartOnlyCropperPro/app/../third/opencv/include\"},{\"path\":\"E:/AndroidProject/SmartOnlyCropperPro/app/src/main/cpp/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/smartcropper.cpp\"]}],\"fullName\":\"libtemp.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog  -llog  -ljnigraphics  -lz  -lopencv_imgcodecs  -lopencv_imgproc  -lopencv_core  -ltegra_hal  -ltbb  -lcpufeatures  -latomic -lm\",\"linkPath\":\"-LE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\app\\\\..\\\\third\\\\opencv\\\\lib\\\\armeabi-v7a   -LE:\\\\AndroidProject\\\\SmartOnlyCropperPro\\\\app\\\\..\\\\third\\\\opencv\\\\3rdparty\\\\armeabi-v7a\",\"linkerLanguage\":\"CXX\",\"name\":\"temp\",\"sourceDirectory\":\"E:/AndroidProject/SmartOnlyCropperPro/app\",\"sysroot\":\"C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output E:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file E:\\AndroidProject\\SmartOnlyCropperPro\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\AndroidProject\\SmartOnlyCropperPro\\app\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  }
+]

@@ -1,0 +1,2 @@
+include ':app', ':smartcropperlibproV4.4'
+include ':mnnlib'

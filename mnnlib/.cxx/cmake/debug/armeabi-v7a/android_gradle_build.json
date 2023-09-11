@@ -1,0 +1,48 @@
+{
+  "stringTable": {
+    "0": "E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmnnlib_EXPORTS -I../../../../../third/opencv/include -I../../../../src/main/cpp/include -I../../../../../third/mnn/include -I../../../../../third/mnn/include/MNN -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\CMakeLists.txt",
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe  -C \"E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mnnlib-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\.cxx\\cmake\\debug\\armeabi-v7a\" mnnlib",
+      "buildType": "debug",
+      "toolchain": "3714535907",
+      "abi": "armeabi-v7a",
+      "artifactName": "mnnlib",
+      "files": [
+        {
+          "src": "E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\src\\main\\cpp\\model.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\src\\main\\cpp\\router.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libmnnlib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3714535907": {
+      "cppCompilerExecutable": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

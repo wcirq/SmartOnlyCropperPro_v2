@@ -1,0 +1,7 @@
+Executable : C:\Users\wcirq\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+E:\AndroidProject\SmartOnlyCropperPro\app\.cxx\cmake\release\armeabi-v7a
+temp
+jvmArgs : 
+

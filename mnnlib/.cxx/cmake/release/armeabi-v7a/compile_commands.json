@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmnnlib_EXPORTS -I../../../../../third/opencv/include -I../../../../src/main/cpp/include -I../../../../../third/mnn/include -I../../../../../third/mnn/include/MNN -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC -o CMakeFiles\\mnnlib.dir\\src\\main\\cpp\\model.cpp.o -c E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\src\\main\\cpp\\model.cpp",
+  "file": "E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/src/main/cpp/model.cpp"
+},
+{
+  "directory": "E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\wcirq\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/wcirq/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmnnlib_EXPORTS -I../../../../../third/opencv/include -I../../../../src/main/cpp/include -I../../../../../third/mnn/include -I../../../../../third/mnn/include/MNN -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC -o CMakeFiles\\mnnlib.dir\\src\\main\\cpp\\router.cpp.o -c E:\\develop\\projects\\AndroidStudio\\SmartOnlyCropperPro_v2\\mnnlib\\src\\main\\cpp\\router.cpp",
+  "file": "E:/develop/projects/AndroidStudio/SmartOnlyCropperPro_v2/mnnlib/src/main/cpp/router.cpp"
+}
+]
